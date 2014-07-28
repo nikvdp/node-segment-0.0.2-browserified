@@ -12,6 +12,7 @@
     "name": "Lei Zongmin",
     "email": "leizongmin@gmail.com"
   },
+  "browserify": { "transform": [ "brfs" ] },
   "contributors": [
     {
       "name": "Lei Zongmin",
